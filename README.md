@@ -27,7 +27,7 @@ For local development from this workspace, use:
 When using the GitHub repository, use:
 
 ```swift
-.package(url: "https://github.com/westik86-sys/settings-component.git", from: "0.2.1")
+.package(url: "https://github.com/pavel-korostelev/settings-component.git", from: "0.2.1")
 ```
 
 `DotSettingsKit` currently has no external package dependencies.
